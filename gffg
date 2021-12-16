@@ -1,0 +1,42 @@
+.section2 h2{
+    
+    width: 70px;
+    padding: 5px;
+    border: 2px solid grey;
+  
+    
+    background-color: rgb(153, 51, 68);
+    margin-bottom:10px ;
+    position: absolute;
+    text-align: center;
+    margin-right:150px;
+  
+}
+.section3 h2{
+    
+    width: 70px;
+    padding: 5px;
+    border: 2px solid grey;
+    
+    
+    background-color: rgb(63, 153, 51);
+    margin-bottom:10px ;
+    position: absolute;
+    text-align: center;
+    margin-right: 80px;
+  
+}
+.section4 h2{
+    
+    width: 70px;
+    padding: 5px;
+    border: 2px solid grey;
+    
+    
+    background-color: rgb(51, 153, 131);
+    margin-bottom:10px ;
+    position: absolute;
+    text-align: center;
+    margin-right: 10px
+  
+}
